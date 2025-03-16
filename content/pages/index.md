@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: LIVE AI Lone Star 2025
-    subtitle: The only accelerator-backed hackathon series.
+    subtitle: >-
+      The only accelerator-backed hackathon series. A multi-campus hybrid event
+      hosted @Duke @Harvard @Online
     styles:
       self:
         height: auto
